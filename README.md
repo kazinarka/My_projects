@@ -7,19 +7,19 @@ Solana betting contract
 https://github.com/kazinarka/betting
 
 Solana simple “Hello world”  contract (i use it as a template for any contract)
-https://gitlab.devlits.com/cryptolits/solana/examples/-/tree/template-sc
+https://github.com/kazinarka/examples/tree/template-sc
 
 Solana reward-pool with custom token and custom nfts
-https://gitlab.devlits.com/cryptolits/solana/examples/-/tree/reward-pool
+https://github.com/kazinarka/examples/tree/reward-pool
 
 Solana simple example of using PDA
-https://gitlab.devlits.com/cryptolits/solana/examples/-/tree/pda-example
+https://github.com/kazinarka/examples/tree/pda-example
 
 Solana contract for testing different methods to provide randomness
-https://gitlab.devlits.com/cryptolits/solana/examples/-/tree/vrf-test
+https://github.com/kazinarka/examples/tree/vrf-test
 
 Solana anchor contract that use VRF
-https://gitlab.devlits.com/cryptolits/solana/examples/-/tree/vrf-contract
+https://github.com/kazinarka/examples/tree/vrf-contract
 
 Solidity contract and script to add liquidity on Pancakeswap
 https://gitlab.devlits.com/cryptolits/solidity/examples/-/tree/LP-pancakeswap
