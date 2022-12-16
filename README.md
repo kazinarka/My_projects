@@ -22,10 +22,10 @@ Solana anchor contract that use VRF
 https://github.com/kazinarka/examples/tree/vrf-contract
 
 Solidity contract and script to add liquidity on Pancakeswap
-https://gitlab.devlits.com/cryptolits/solidity/examples/-/tree/LP-pancakeswap
+https://github.com/kazinarka/solidity_examples
 
 Solidity swap platform that use a chainlink as a proof of cost
-https://gitlab.devlits.com/cryptolits/solidity/examples/-/tree/swap-with-chainlink
+https://github.com/kazinarka/solidity_examples/tree/swap-with-chainlink
 
 Solidity contract to implement raffle like lottery
-https://gitlab.devlits.com/cryptolits/solidity/examples/-/tree/raffle-service
+https://github.com/kazinarka/solidity_examples/tree/raffle-service
